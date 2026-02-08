@@ -4,7 +4,15 @@ Data traffic simulasi berdasarkan pattern jam puncak Jakarta Data cuaca real-tim
 
 Project ini mendemonstrasikan konsep 5V Big Data:
 
-Volume: 40.000+ records data historis Velocity: Real-time monitoring & update Variety: Traffic data, weather data, analytics Veracity: Data dari API eksternal (Open-Meteo) Value: Insight untuk prediksi kemacetan Jakarta
+Volume: 40.000+ records data historis 
+
+Velocity: Real-time monitoring & update 
+
+Variety: Traffic data, weather data, analytics 
+
+Veracity: Data dari API eksternal (Open-Meteo) 
+
+Value: Insight untuk prediksi kemacetan Jakarta
 
 🎯 Fitur Utama
 
